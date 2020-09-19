@@ -1,0 +1,118 @@
+@media all and (max-width:1199px){
+    .we-do-image img {
+        max-width: 100%;
+        padding-top: 75px;
+    }
+}
+@media all and (max-width:1024px){
+    .common-text p {
+        width: 90%;
+    }
+    .about-text {
+        margin-top: 20px;
+    }
+    .love-button {
+        padding: 9px;
+        font-size: 13px;
+        border-radius: 50px;
+    }
+}
+@media all and (max-width:991px){
+    .about-text {
+        transform: translateY(50%);
+        margin-top: 0px;
+        padding-left: 15px;
+    }
+    .common-text p {
+        font-size: 13px;
+    }
+}
+@media all and (max-width:767px){
+    .slider-text {
+        padding-top: 30px;
+    }
+    header{
+        position: static;
+    }
+    .we-do-image img {
+        padding-top: 0px;
+        margin-bottom: 0;
+    }
+    .recent-work-section .work-list a li {
+        padding: 0px 10px;
+    }
+    .recent-work-section .work-list a li span {
+        margin: 0px 5px;
+        display: none;
+    }
+    
+    .t-member-img {
+        margin-bottom: 20px;
+    }
+    .t-member-img img {
+        width: 100%;
+    }
+    .post-section .common-text {
+        padding: 0!important;
+    }
+}
+@media all and (max-width:590px){
+    .gallery {
+        padding: 15px;
+    }
+    .gallery-img {
+        padding: 0px 20px;
+    }
+    .tabs-text h3 {
+        font-size: 24px;
+        padding-left: 25px;
+    }
+    .tabs-text p {
+        width: 90%;
+        margin: auto;
+    }
+    .tabs-img {
+        padding: 20px;
+    }
+    .t-member-img img {
+        padding: 20px;
+    }
+    .post-text {
+        padding: 0px 20px;
+    }
+    .right-text {
+        margin: 0px 20px;
+        padding: 0px 10px;
+    }
+    .right-img {
+        padding: 0px 20px;
+    }
+    .white-bg {
+        padding: 20px;
+    }
+    .footer-left {
+        padding: 15px 0px;
+    }
+    .footer-content {
+        padding: 20px;
+    }
+    .footer-content form {
+        width: 60%;
+    }
+}
+@media all and (max-width:522px){
+    .top-left p {
+        line-height: 20px;
+        margin-right: auto;
+        width: 120%;
+    }
+    .top-left i {
+        line-height: 20px;
+        margin-right: 8px;
+        float: left;
+    }
+    .top-left {
+        display: block!important;
+        padding-left: 15px;
+    }
+}
